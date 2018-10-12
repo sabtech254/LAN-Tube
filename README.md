@@ -14,6 +14,9 @@ Technologies
 LAN Tube is an Open Source Youtube like web app for your home network. You can upload, watch videos online and download. All this on your local server no need for internet connection.
 Please feel free do use the souce code to any purpose and please any contribution to the project will be highly welcomed
 
+![ScreenShot](https://github.com/FotieMConstant/LAN-Tube/blob/master/screenshot.PNG)
+
+
 LAN Tube is easy to install on your local server
 
 How to install
