@@ -12,6 +12,7 @@ LAN Tube is an Open Source Youtube like web app for your home network. You can u
 Please feel free do use the souce code to any purpose and please any contribution to the project will be highly welcomed
 
 LAN Tube is easy to install on your local server
+
 How to install
 - Extract the file on your local server folder. This is usually the 'www' OR 'htdocs' folder in your drive C:\
 - Launch your local server. this can be any whether WAMP or XAMPP. Or any other
