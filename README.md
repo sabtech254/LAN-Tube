@@ -16,13 +16,13 @@ LAN Tube is easy to install on your local server
 How to install
 - Extract the file on your local server folder. This is usually the 'www' OR 'htdocs' folder in your drive C:\
 - Launch your local server. this can be any whether WAMP or XAMPP. Or any other
-- Go to https://localhost/phpmyadmin
+- Go to http://localhost/phpmyadmin
 - Create database named 'lantub' on your local server.
 - Import 'db.sql' from the databse folder.
 	This will create a table named 'videos'. this table will collect 'id' of the video uploaded, the 'name' and the location of the file.
 - Now all is almost done, just one thing left. We have to increase the maximum POST FILE SIZE and UPLOAD FILE SIZE. generally they are set by default to 8M and 2M for XAMPP respectively.
 	
-	- Look for the file 'php.ini' and increase the file siz to the max you whish to have(E.g 2048MB). this file i generally found in 'C:\xampp\php' directory for XAMPP.
+	- Look for the file 'php.ini' and increase the file size to the max you whish to have(E.g 2048MB). this file i generally found in 'C:\xampp\php' directory for XAMPP.
 	- Once ther open the file and search for 'post_max_size' and 'upload_max_filesize'. You can now start editing.
 - Launch the website and enjoy!
 
